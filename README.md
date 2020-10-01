@@ -1,10 +1,6 @@
-# React Base
+# Scavenger Hunt
 
-A basic react build
-
-### Description
-
-This repository is a starter repository for creating a react + typescript + goodies website.
+A simple geo-coordinate based scavenger hunt.
 
 ### Contributors
 
